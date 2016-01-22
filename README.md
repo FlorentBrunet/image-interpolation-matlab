@@ -8,3 +8,7 @@ image-interpolation-matlab is a small Matlab toolbox that provides really fast a
 
 If you download the source code of this toolbox (which is the preferred way), you will need to compile the mex-files. To do so, just run the script named `ii_compile_and_setup.m`. There are a few options with self-explaining names at the beginning of this script if you want to tune the toolbox according to your needs and/or your hardware.
 
+## Usage
+
+The script `test_bicubic` gives a really simple example of how to use the toolbox.
+
