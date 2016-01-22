@@ -1,0 +1,10 @@
+2011/05/23
+- Initial version
+- Basically just ii_bicubic
+
+2012/07/17
+- Add the bilinear interpolation (ii_bilinear)
+- Improvements of the setup script (ii_compile_and_setup)
+- New demos: test_compare and test_timings
+- Removing all the (uselessly) templatized code from the C++ source files
+

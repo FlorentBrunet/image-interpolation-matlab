@@ -1,0 +1,30 @@
+II (Image Interpolation)
+----------------------------------------------------------------------
+
+Copyright 2011 Florent Brunet
+Please contact florent@brnt.eu for more information.
+All rights reserved.
+
+Free Licence
+------------
+
+II is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+II is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with II.  If not, see <http://www.gnu.org/licenses/>.
+
+Other Types of Licencing
+------------------------
+
+Source code is available under the GNU General Public License.
+In short, if you distribute a software that uses II,
+you have to distribute it under GPL with the source code.
+Another option is to contact us to purchase a commercial license.
