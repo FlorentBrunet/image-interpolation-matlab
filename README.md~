@@ -1,0 +1,6 @@
+# image-interpolation-matlab
+
+## Description
+
+image-interpolation-matlab is a small Matlab toolbox that provides really fast and convenient image interpolation routines. It is fast since it relies on native binary code (Mex-files) and it is implemented in parallel. It is convenient because it can handle images with multiple channels (contrarily to the "interp2" function of Matlab). It supports bicubic and bilinear interpolation schemes. I hope one day to have some time to implement other algorithms.
+
